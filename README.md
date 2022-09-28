@@ -6,7 +6,7 @@ fatihclsknn/fatihclsknn is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div id="badges">
-  <a href="linkedin.com/in/fatih-çalışkan-90555b201/">
+  <a href="https://www.linkedin.com/in/fatih-çalışkan-90555b201">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
